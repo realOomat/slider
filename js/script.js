@@ -129,6 +129,6 @@ prev.addEventListener("click", () => {
   slider.style.left = -position + "px";
 })
 
-// console.log("Oomatbek");
+console.log("Oomatbek");
 
 
