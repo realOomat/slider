@@ -1,40 +1,6 @@
-/* button {
-  background: rgba(167, 130, 130);
-}
-
-.red {
-  background: rgba(232, 19, 19);
-}
-
-.none {
-  display: none;
-}
-
-.block {
-  display: block;
-}
-
-.gold {
-  background: gold;
-}
-
-.yellow {
-  background: yellow;
-}
-
-.img{
-  width: 100px;
-  height: 100ex;
-} */
-
-
-
 
 
 /* slider */
-
-
-
 
 .container {
   max-width: 1000px;
@@ -68,3 +34,9 @@ padding: 20px;
   transform: scale(1.5);
 }
 
+.btns{
+  margin: 0 auto;
+  width: 300px;
+  display: flex;
+  justify-content: space-around;
+}
